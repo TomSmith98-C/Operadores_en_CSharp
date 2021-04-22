@@ -1,0 +1,12 @@
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/bin/Debug/netcoreapp3.1/Operadores_en_C.deps.json
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/bin/Debug/netcoreapp3.1/Operadores_en_C.runtimeconfig.json
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/bin/Debug/netcoreapp3.1/Operadores_en_C.runtimeconfig.dev.json
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/bin/Debug/netcoreapp3.1/Operadores_en_C.dll
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/bin/Debug/netcoreapp3.1/Operadores_en_C.pdb
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/obj/Debug/netcoreapp3.1/Operadores_en_C.csprojAssemblyReference.cache
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/obj/Debug/netcoreapp3.1/Operadores_en_C.AssemblyInfoInputs.cache
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/obj/Debug/netcoreapp3.1/Operadores_en_C.AssemblyInfo.cs
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/obj/Debug/netcoreapp3.1/Operadores_en_C.csproj.CoreCompileInputs.cache
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/obj/Debug/netcoreapp3.1/Operadores_en_C.dll
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/obj/Debug/netcoreapp3.1/Operadores_en_C.pdb
+/Users/tom/Projects/Operadores_en_C/Operadores_en_C/obj/Debug/netcoreapp3.1/Operadores_en_C.genruntimeconfig.cache
